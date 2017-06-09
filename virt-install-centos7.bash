@@ -1,3 +1,4 @@
+#!/bin/bash
 virt-install \
 --name centos7 \
 --ram 8192 \
